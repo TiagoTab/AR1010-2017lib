@@ -7,9 +7,15 @@ The AR1010-2017lib is an updated version of the <a href="https://github.com/adam
 ### Wiring
 
 [AR1010 -> Arduino]
+
 VCC -> 3.3v
+
 GRND -> GRND 
+
 Data Pin -> A4 on the Arduino
+
 Clk Pin -> A5 on the Arduino
+
 CS -> Not used
+
 (The other ground and left/right channels can be then connected to the speakers, or amplifier)
