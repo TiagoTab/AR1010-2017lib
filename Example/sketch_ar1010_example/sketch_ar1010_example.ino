@@ -3,8 +3,8 @@
 
 AR1010_2017 radio = AR1010_2017();
 
-//Set the radio frequency without the separator (101.2 -> 1012)
-double frequencyFM = 916;
+//Set the radio frequency 
+double frequencyFM = 101.8;
 
 void setup() {
  Wire.begin();
