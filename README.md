@@ -9,7 +9,7 @@ The AR1010-2017lib is an updated version of the <a href="https://github.com/adam
 
 VCC -> 3.3v
 
-GRND -> GRND 
+GND -> GND 
 
 Data Pin -> A4 on the Arduino
 
