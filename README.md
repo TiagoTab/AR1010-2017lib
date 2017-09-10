@@ -1,6 +1,5 @@
-AR1010 2017 lib - Updated to use Arduino.h  
+AR1010_2017lib
 =========
-
 The AR1010-2017lib is an updated version of the <a href="https://github.com/adamjansch/AR1010lib" title="AR1010 Lib" target="_blank">AR1010lib</a> from <a href="https://github.com/adamjansch!">adamjansch</a>, built to work with the current Arduino Libraries. 
 
 
